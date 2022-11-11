@@ -44,7 +44,7 @@ hr {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background: rgb(61, 187, 250);
+    background: #3498db;
     color: rgb(0,0,0,0.8);
     border: 2;
     border-radius: 5px;
