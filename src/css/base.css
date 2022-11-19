@@ -45,7 +45,7 @@ hr {
     display: inline-block;
     padding: 10px 20px;
     background: #3498db;
-    color: rgb(0,0,0,0.8);
+    color: rgba(255, 255, 255, 0.927);
     border: 2;
     border-radius: 5px;
     font-size: 16px;
