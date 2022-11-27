@@ -2,7 +2,7 @@ body {
     position: relative;
     width: 100%;
     margin: 0;
-    background-image: url(https://source.unsplash.com/random/1920x1080?landscape);
+    background-image: url(/src/img/background.jpg); 
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
