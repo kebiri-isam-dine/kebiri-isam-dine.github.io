@@ -12,7 +12,7 @@ AI & DS student
 
 Hi 👋 je suis **KEBIRI Issam Eddine** étudiant en **Intelligence Artificielle & Data Science** à l'université Toulouse III - Paul Sabatieret et actuellement **en recherche d'un stage de fin d'études** , mobilité : **France**.
 
-[**M'envoyer un mail**](mailto:kebiri.isam.dine@gmail.com) ou [**Voir mon CV**](./src/doc/CV_PRO_KEBIRI Issam Eddine.pdf)
+[M'envoyer un mail](mailto:kebiri.isam.dine@gmail.com) ou [Voir mon CV](/src/CV_Kebiri-isam-dine.pdf)
 
 * * *
 
