@@ -83,10 +83,10 @@ h6 {
 }
 
 #header .profile img {
-  margin: 15px auto;
+  margin: 45px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 2px thick double #ffffff;
 }
 
 #header .profile h1 {
