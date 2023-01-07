@@ -229,8 +229,8 @@ h6 {
   max-width: 100%;
   height: auto;
   width: auto\9;  /*ie8*/
-  background: url("../img/hero-bg.jpg") right ;
-  background-size:contain;
+  background: url("../img/hero-bg.jpg") top center ;
+  background-size:cover;
 }
 
 #hero:before {
