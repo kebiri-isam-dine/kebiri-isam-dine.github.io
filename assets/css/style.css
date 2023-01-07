@@ -377,6 +377,7 @@ section {
   font-size: 16px;
   margin: 10px;
   text-decoration: none;
+  transition: 0.3s;
 }
 
 /*--------------------------------------------------------------
@@ -699,6 +700,7 @@ section {
   text-align: right;
   bottom: 10px;
   right: 10px;
+  transition: 0.3s;
 }
 
 .thumbnail .btn {
@@ -740,7 +742,7 @@ section {
   display: inline-block;
   background: #3498db;
   color: white;
-  font-size: 12px;
+  font-size: 15px;
   border-radius: 20px;
   text-decoration: none;
   padding: 5px 10px;
