@@ -658,7 +658,7 @@ section {
   text-align: left;
   vertical-align: top;
   margin:1em;
-  background: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
 }
 
 .thumbnail-cover {
