@@ -417,9 +417,9 @@ up-btn:focus {
 
 .dark-box:hover,
 .dark-box:focus {
-  -webkit-box-shadow: 0px 3px 0px 0px #FFE801;
-  -moz-box-shadow: 0px 3px 0px 0px #FFE801;
-  box-shadow: 0px 3px 0px 0px #FFE801;
+  -webkit-box-shadow: 0px 5px 0px 0px #FFE801;
+  -moz-box-shadow: 0px 5px 0px 0px #FFE801;
+  box-shadow: 0px 5px 0px 0px #FFE801;
 }
 
 .box-hover {
