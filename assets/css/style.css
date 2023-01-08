@@ -756,7 +756,6 @@ up-btn:focus {
 .thumbnail-footer {
   position: absolute;
   text-align: right;
-  bottom: 10px;
   right: 10px;
   transition: 0.3s;
 }
