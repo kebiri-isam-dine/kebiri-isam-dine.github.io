@@ -409,9 +409,9 @@ up-btn:focus {
 
 .dark-box {
   background: #F3F5F8;
-  -webkit-box-shadow: 0px 3px 0px 0px #E04343;
-  -moz-box-shadow: 0px 3px 0px 0px #E04343;
-  box-shadow: 0px 3px 0px 0px #E04343;
+  -webkit-box-shadow: 0px 3px 0px 0px #000000;
+  -moz-box-shadow: 0px 3px 0px 0px #000000;
+  box-shadow: 0px 3px 0px 0px #000000;
   padding: 20px 0;
 }
 
