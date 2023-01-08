@@ -380,6 +380,63 @@ section {
   transition: 0.3s;
 }
 
+.up-btn {
+  width: 55px;
+  height: 55px;
+  background: rgba(255, 232, 1, 0.9);
+  display: block;
+  margin: 0 auto;
+  color: #E04343;
+  font-size: 18px;
+  line-height: 52px;
+  text-align: center;
+  position: absolute;
+  top: -26px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button:hover,
+up-btn:focus {
+  color: black;
+  background: #FFE800;
+}
+
+
+
+
+.dark-box {
+  background: #F3F5F8;
+  -webkit-box-shadow: 0px 3px 0px 0px #E04343;
+  -moz-box-shadow: 0px 3px 0px 0px #E04343;
+  box-shadow: 0px 3px 0px 0px #E04343;
+  padding: 20px 0;
+}
+
+.dark-box:hover,
+.dark-box:focus {
+  -webkit-box-shadow: 0px 3px 0px 0px #FFE801;
+  -moz-box-shadow: 0px 3px 0px 0px #FFE801;
+  box-shadow: 0px 3px 0px 0px #FFE801;
+}
+
+.box-hover {
+  transition: all 500ms ease-in-out;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+}
+
+.box-hover:hover,
+.box-hover:focus {
+  transform: translate(0, -15px);
+  -webkit-transform: translate(0, -15px);
+  -ms-transform: translate(0, -15px);
+}
+
+
 /*--------------------------------------------------------------
 
 # Skills
@@ -841,3 +898,8 @@ section {
 #inner {
   display: inline-block;
 }
+
+
+
+
+
