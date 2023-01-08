@@ -14,6 +14,8 @@
 
 This is my website Portfolio to resume my work as a data scientist.
 
+
+### Demo
 **[Live Demo](https://kebiri-isam-dine.github.io)**
 
 <img src="./assets/img/gif/demo.gif" alt="demo">
@@ -36,5 +38,5 @@ This is my website Portfolio to resume my work as a data scientist.
 
 🌐 My Portfolio: <https://kebiri-isam-dine.github.io/>
 
-🔗 Project Link: [https://github.com/Kebiri-isam-dine](https://github.com/Kebiri-isam-dine)
+🔗 Project Link: [https://github.com/kebiri-isam-dine/kebiri-isam-dine.github.io](https://github.com/kebiri-isam-dine/kebiri-isam-dine.github.io)
 
