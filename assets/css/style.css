@@ -718,6 +718,8 @@ up-btn:focus {
   vertical-align: top;
   margin: 5px 10px;
   padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   background: rgb(255, 255, 255);
 }
 
