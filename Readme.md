@@ -4,6 +4,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/kebiri-isam-dine.github.io?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/kebiri-isam-dine.github.io?color=yellow&style=for-the-badge)
 
+
+![GitHub dev_language](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![GitHub dev_language](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
 
