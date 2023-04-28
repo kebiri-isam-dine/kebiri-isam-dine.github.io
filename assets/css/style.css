@@ -430,6 +430,16 @@ up-btn:focus {
 }
 
 
+#containerr {
+  position: relative;
+}
+
+#img2 {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+
 /*--------------------------------------------------------------
 
 # Skills
